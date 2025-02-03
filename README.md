@@ -12,6 +12,10 @@
     <b>O GetYourPizza é uma aplicação web interativa que permite aos usuários visualizar, escolher e adicionar pizzas ao carrinho de compras. O sistema também calcula automaticamente o subtotal, desconto e total da compra, proporcionando uma experiência dinâmica e amigável ao usuário.</b>
 </p>
 
+<h3>Layout</h3>
+
+<img src="./images/img-readme.jpeg" alt="Imagem para Computadores" width="100%">
+
 <h2 id="tech">Tecnologias</h2>
 
 - [HTML](https://devdocs.io/html) - Estruturação do layout.
